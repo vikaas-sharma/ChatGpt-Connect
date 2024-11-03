@@ -37,4 +37,4 @@ To set up the project locally, follow these steps:
 4. Start the server:
    ```bash
    npm start
-5. The server will be running at http://localhost:8080
+5. The server will be running at http://localhost:8000
