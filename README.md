@@ -6,9 +6,6 @@ A web application that allows users to interact with an AI using text input or v
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Text Input**: Users can type their prompts and receive AI-generated responses.
